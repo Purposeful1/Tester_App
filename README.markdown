@@ -1,3 +1,9 @@
+# Ruby on Rails Tutorial: My time to shine!
+
+This is my own tester application for fooling around with!
+
+
+
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
